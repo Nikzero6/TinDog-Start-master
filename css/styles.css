@@ -137,9 +137,7 @@ h2 {
     position: static;
     transform: rotate(0);
   }
-}
 
-@media (max-width: 500px) {
   .entire-webpage {
     -webkit-transform: scale(2);/* Safari Property */
     -webkit-transform-origin: 0 0;
@@ -147,7 +145,8 @@ h2 {
     -moz-transform-origin: 0 0;
     -o-transform: scale(2);/* Opera Property */
     -o-transform-origin: 0 0;
-    
+    transform: scale(2); /* Standard Property */
+    transform-origin: 0 0;  /* Standard Property */
   }
 }
 
