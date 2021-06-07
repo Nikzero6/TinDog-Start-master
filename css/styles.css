@@ -1,10 +1,8 @@
-
 body {
   font-family: 'Montserrat', sans-serif;
 }
 
 /* title */
-
 #title {
   background-color: #ff4c68;
   color: #fff;
@@ -21,7 +19,6 @@ h1 {
 }
 
 /* navigation bar */
-
 .navbar {
   padding: 0 0 4.5rem;
 }
@@ -42,13 +39,11 @@ h1 {
 }
 
 /* buttons */
-
 .Download-btn {
   margin: 5% 3% 5% 0;
 }
 
 /* title-img */
-
 .title-img {
   width: 60%;
   transform: rotate(25deg);
@@ -57,7 +52,6 @@ h1 {
 }
 
 /* section-2 */
-
 .icons {
   font-size: 5rem;
   color: #ef8172;
@@ -89,7 +83,6 @@ p {
 }
 
 /* testimonial section */
-
 #testimonials {
   text-align: center;
   background-color: #ef8172;
@@ -99,7 +92,6 @@ h2 {
   font-weight: 700;
   font-size: 3rem;
   line-height: 1.5;
-
 }
 
 .carousel-item {
@@ -114,7 +106,6 @@ h2 {
 }
 
 /* press section */
-
 #press {
   padding-bottom: 7%;
   text-align: center;
@@ -127,7 +118,6 @@ h2 {
 }
 
 /* pricing section */
-
 #pricing {
   padding: 100px;
   text-align: center;
@@ -138,9 +128,7 @@ h2 {
 }
 
 /* breakpoints */
-
 @media (max-width: 992px) {
-
   #title {
     text-align: center;
   }
@@ -152,14 +140,12 @@ h2 {
 }
 
 @media (max-width: 500px) {
-
   .entire-webpage {
     transform: scale(2, 2);
   }
 }
 
 /* cta section */
-
 #cta {
   background-color: #ff4c68;
   text-align: center;
