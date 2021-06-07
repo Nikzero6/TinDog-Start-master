@@ -151,6 +151,13 @@ h2 {
   }
 }
 
+@media (max-width: 500px) {
+
+  .entire-webpage {
+    transform: scale(1.5, 1.5);
+  }
+}
+
 /* cta section */
 
 #cta {
