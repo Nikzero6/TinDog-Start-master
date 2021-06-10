@@ -1,4 +1,4 @@
-TinDog
+
 _**‘Tindog’**_ (an exemplary start-up app landing page).  
   
   **Goal:**  
